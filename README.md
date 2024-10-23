@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <b>Amrita school of sustainable development</b>
 
-- 🌱 I’m currently learning **Large Language Models (LLMs) and Machine Learning**
+- 🌱 I’m currently learning **Large Language Models (LLMs), Machine Learning** and **Robotics**
 
 - 💬 Ask me about **Flutter Development and DIY Drones**
 
