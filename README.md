@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saravanan</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on <b>Amrita school of sustainable development</b>
-
 - 🌱 I’m currently learning **Large Language Models (LLMs), Machine Learning** and **Robotics**
 
 - 💬 Ask me about **Flutter Development and DIY Drones**
